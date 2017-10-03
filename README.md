@@ -5,6 +5,7 @@ OceanBase是阿里集团研发的可扩展的关系数据库，实现了数千�
 <h1>发行日志</h1>
 2013/03/04，整理提交了V0.3.1代码和相关技术文档。
 <h1>资源列表</h1>
+
 * [OceanBase介绍](https://github.com/alibaba/oceanbase/wiki)
 
 * [OceanBase架构](https://github.com/alibaba/oceanbase/tree/master/doc/oceanbase%E6%9E%B6%E6%9E%84%E5%92%8C%E6%8E%A5%E5%8F%A3)
